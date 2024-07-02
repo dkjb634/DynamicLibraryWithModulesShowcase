@@ -14,17 +14,3 @@ export class MY_DLL_EXPORT Calculator
 public:
     static int Sum(int a, int b);
 };
-
-
-/*
-export int Foo()
-{
-    return 1;
-}
-
-export class  Calculator
-{
-public:
-    static int Sum(int a, int b);
-};
-*/
